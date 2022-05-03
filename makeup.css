@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 5rem;
+    margin-left: 20px;
+}
+li,ul{
+    background-color: rgb(255, 175, 188);
+}
+.container{
+    font-family: 'Noto Sans', sans-serif;
+}
+#z{
+    color:rgb(255, 175, 188);
+    background-color: ;
+}
+.dropdown-menu{
+    color: #000;
+    background-color: transparent;
+    font-weight: bold;
+}
+#w{
+    font-weight: 400;
+    font-style: italic;
+}
+#u{
+    margin-top :-20rem;
+    margin-left:70rem;
+}

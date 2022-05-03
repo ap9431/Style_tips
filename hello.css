@@ -1,0 +1,65 @@
+#bold{
+    margin-top: 40px;
+    color: red;
+    font-style: italic;
+}
+#image{
+    border: black solid 2px;
+    transition 9px;
+    z-index 8;
+    animation: trans 200ms linear ;
+    width: 80%;
+    
+}
+@keyframes trans{
+    0%{
+       visibility: hidden;;
+    }
+    50%{
+        visibility: hidden;
+     }
+    
+    100%{
+        visibility:visible;
+    }
+}
+#c{
+    font-weight: 500;
+    font-size: 60px;
+}
+#cd{
+    font-weight: 390;
+    font-size: 40px;
+}
+#l{
+    margin-top: 60px;
+    margin-left: 130px;
+    font-weight: 390;
+    font-size: 100px;
+
+}
+body{
+    font-family: poppins;
+}
+
+li,ul{
+    background-color:rgb(255, 175, 188);
+}
+    h1{
+        font-family: 'Pacifico', cursive;
+        font-size: 5rem;
+        margin-left: 60px;
+        margin-top: 60px;
+    }
+    
+.dropdown-menu{
+    color: #000;
+    background-color: transparent;
+    font-weight: bold;
+}
+#sk{
+    background-image: url("makeup.jpg");
+    background-repeat: no-repeat
+    background-size: center center;
+   
+   }
