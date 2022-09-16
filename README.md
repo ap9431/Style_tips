@@ -1,1 +1,1 @@
-# Style_tips.
+# Style_tips
